@@ -1,0 +1,30 @@
+
+
+
+#nav-header{
+	background-color: silver;
+	margin-bottom: 20px;
+}
+.item{
+	background-color: gray;
+	
+}
+.item{
+	background-color: grey;
+	border:2px solid black;
+	margin-bottom: 20px ;
+	padding: 4px;
+}
+.item:hover{
+	box-shadow: 5px 10px;
+}
+h2,h4{
+	text-align: center;
+}@media (min-width:768px) and (max-width:991px){
+	#Sushi{
+		min-width: 100%;
+	}
+}
+    .navbar-nav a{ 
+        text-align: center;	
+	}
